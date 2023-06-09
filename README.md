@@ -1,1 +1,1 @@
-This repo contains the solutions to various programming challenges.
+This repo contains the solutions to leetcode style python problems.
